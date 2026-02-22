@@ -8,7 +8,7 @@ Este repositório contém a implantação de um algoritmo de aprendizagem de má
 * Rafael Nascimento Andrade
 
 ## 🎯 Visão Geral do Projeto
-O objetivo principal deste projeto é prever o número de vendas de determinados produtos em lojas no Equador ao longo de uma série temporal. A solução foi inteiramente desenvolvida em um ambiente de Notebook Python, abordando desde a análise exploratória e tratamento dos dados (como correção de datas, preenchimento de valores faltantes em preços de petróleo e remoção de feriados transferidos) até a modelagem preditiva.
+O objetivo principal deste projeto é prever o número de vendas de determinados produtos em lojas no Equador ao longo de uma série temporal. A solução foi inteiramente desenvolvida em um ambiente de Notebook Python, abordando desde a análise exploratória e tratamento dos dados até a modelagem preditiva.
 
 O modelo preditivo foi construído utilizando o algoritmo `XGBRegressor` da biblioteca XGBoost. A métrica de avaliação utilizada para o treinamento foi a `root_mean_squared_log_error`.
 
