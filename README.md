@@ -15,6 +15,9 @@ O modelo preditivo foi construído utilizando o algoritmo `XGBRegressor` da bibl
 ## Documentação
 O arquivo docs/Relatorio.pdf contém toda a documentação teorica do projeto
 
+## Submissão
+A submissão mais atual é o arquivo submissions/second_submission.csv
+
 ## 📁 Estrutura do Repositório
 
 Abaixo está a organização dos arquivos e diretórios do projeto:
